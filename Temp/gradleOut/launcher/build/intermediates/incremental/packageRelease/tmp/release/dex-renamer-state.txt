@@ -1,0 +1,4 @@
+#Tue May 19 01:28:42 GST 2020
+base.0=/Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

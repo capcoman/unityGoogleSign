@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BC2F780C-5668-0626-DBFB-C54A9D0A63E2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SignInSample/SigninSampleScript.cs">
+    <Files>
+      <File FileName="Assets/SignInSample/SigninSampleScript.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GoogleAuthDemoFinal" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="SignInSample" expanded="True">
+                <Node name="SigninSampleScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="526bbd7a-712d-4dd9-b28d-d7cf10e9dbd3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

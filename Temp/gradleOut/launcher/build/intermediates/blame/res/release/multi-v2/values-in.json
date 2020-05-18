@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-in/values-in.xml",
+            "map": [
+                {
+                    "source": "/Users/cenk/.gradle/caches/transforms-2/files-2.1/91433e3d869302d0da56f6874b34678b/res/values-in/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "190",
+                        "endOffsets": "475"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "1124",
+                        "endColumns": "190",
+                        "endOffsets": "1310"
+                    }
+                },
+                {
+                    "source": "/Users/cenk/.gradle/caches/transforms-2/files-2.1/70430735f14c2950e6d3ff4a470c0ac8/res/values-in/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "283,388,584,708,812,1026,1151,1282,1507,1612,1807,1931,2145,2315,2405,2491",
+                        "endColumns": "104,195,123,103,213,124,130,224,104,194,123,213,169,89,85,103",
+                        "endOffsets": "387,583,707,811,1025,1150,1281,1506,1611,1806,1930,2144,2314,2404,2490,2594"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,410,538,646,860,989,1315,1540,1649,1844,1972,2186,2360,2454,2544",
+                        "endColumns": "108,195,127,107,213,128,134,224,108,194,127,213,173,93,89,107",
+                        "endOffsets": "209,405,533,641,855,984,1119,1535,1644,1839,1967,2181,2355,2449,2539,2647"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:3:1-63:12
+MERGED from [:com.android.support.support-compat-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/77095056f043f67ed054aa0aaa741af8/AndroidManifest.xml:17:1-27:12
+MERGED from [:com.android.support.support-core-ui-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/3abdbd74a0a3e64306aaf5356165e890/AndroidManifest.xml:17:1-27:12
+MERGED from [:com.android.support.support-core-utils-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/47f7e3438c712a154d43e0ded249f28f/AndroidManifest.xml:17:1-27:12
+MERGED from [:com.android.support.support-fragment-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/7957925772e08bb00ff7f7c966cbec83/AndroidManifest.xml:17:1-27:12
+MERGED from [:com.android.support.support-media-compat-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/cfa5633e5870cdf235bd39a510e8e491/AndroidManifest.xml:17:1-27:12
+MERGED from [:com.android.support.support-v4-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/bb18929b8f66ecc97af8b5cd078cd820/AndroidManifest.xml:17:1-27:12
+MERGED from [:com.google.android.gms.play-services-auth-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/9978de949fa118f60f0e17fbad0fa07b/AndroidManifest.xml:16:1-26:12
+MERGED from [:com.google.android.gms.play-services-auth-base-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/bb7c34969bc0815a7f23611fe23aef5c/AndroidManifest.xml:2:1-5:12
+MERGED from [:com.google.android.gms.play-services-base-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/70430735f14c2950e6d3ff4a470c0ac8/AndroidManifest.xml:16:1-21:12
+MERGED from [:com.google.android.gms.play-services-basement-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/91433e3d869302d0da56f6874b34678b/AndroidManifest.xml:16:1-23:12
+MERGED from [:com.google.android.gms.play-services-tasks-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/d6e8a1919ce58f2f9abbec0c7dff76a6/AndroidManifest.xml:2:1-5:12
+MERGED from [:com.google.signin.google-signin-support-1.0.3:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/14a569ece026b7b24447115df3ad953a/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:70-101
+		INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:102-148
+	android:versionCode
+		INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:149-189
+supports-screens
+ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:135-160
+application
+ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-61:19
+MERGED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-61:19
+MERGED from [:com.android.support.support-compat-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/77095056f043f67ed054aa0aaa741af8/AndroidManifest.xml:25:5-20
+MERGED from [:com.android.support.support-compat-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/77095056f043f67ed054aa0aaa741af8/AndroidManifest.xml:25:5-20
+MERGED from [:com.android.support.support-core-ui-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/3abdbd74a0a3e64306aaf5356165e890/AndroidManifest.xml:25:5-20
+MERGED from [:com.android.support.support-core-ui-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/3abdbd74a0a3e64306aaf5356165e890/AndroidManifest.xml:25:5-20
+MERGED from [:com.android.support.support-core-utils-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/47f7e3438c712a154d43e0ded249f28f/AndroidManifest.xml:25:5-20
+MERGED from [:com.android.support.support-core-utils-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/47f7e3438c712a154d43e0ded249f28f/AndroidManifest.xml:25:5-20
+MERGED from [:com.android.support.support-fragment-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/7957925772e08bb00ff7f7c966cbec83/AndroidManifest.xml:25:5-20
+MERGED from [:com.android.support.support-fragment-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/7957925772e08bb00ff7f7c966cbec83/AndroidManifest.xml:25:5-20
+MERGED from [:com.android.support.support-media-compat-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/cfa5633e5870cdf235bd39a510e8e491/AndroidManifest.xml:25:5-20
+MERGED from [:com.android.support.support-media-compat-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/cfa5633e5870cdf235bd39a510e8e491/AndroidManifest.xml:25:5-20
+MERGED from [:com.android.support.support-v4-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/bb18929b8f66ecc97af8b5cd078cd820/AndroidManifest.xml:25:5-20
+MERGED from [:com.android.support.support-v4-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/bb18929b8f66ecc97af8b5cd078cd820/AndroidManifest.xml:25:5-20
+MERGED from [:com.google.android.gms.play-services-auth-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/9978de949fa118f60f0e17fbad0fa07b/AndroidManifest.xml:19:5-25:19
+MERGED from [:com.google.android.gms.play-services-auth-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/9978de949fa118f60f0e17fbad0fa07b/AndroidManifest.xml:19:5-25:19
+MERGED from [:com.google.android.gms.play-services-base-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/70430735f14c2950e6d3ff4a470c0ac8/AndroidManifest.xml:18:5-20:19
+MERGED from [:com.google.android.gms.play-services-base-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/70430735f14c2950e6d3ff4a470c0ac8/AndroidManifest.xml:18:5-20:19
+MERGED from [:com.google.android.gms.play-services-basement-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/91433e3d869302d0da56f6874b34678b/AndroidManifest.xml:19:5-21:19
+MERGED from [:com.google.android.gms.play-services-basement-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/91433e3d869302d0da56f6874b34678b/AndroidManifest.xml:19:5-21:19
+MERGED from [:com.google.android.gms.play-services-tasks-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/d6e8a1919ce58f2f9abbec0c7dff76a6/AndroidManifest.xml:4:5-19
+MERGED from [:com.google.android.gms.play-services-tasks-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/d6e8a1919ce58f2f9abbec0c7dff76a6/AndroidManifest.xml:4:5-19
+MERGED from [:com.google.signin.google-signin-support-1.0.3:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/14a569ece026b7b24447115df3ad953a/AndroidManifest.xml:25:5-20
+MERGED from [:com.google.signin.google-signin-support-1.0.3:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/14a569ece026b7b24447115df3ad953a/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:49-80
+uses-sdk
+INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-11:41
+MERGED from [:com.android.support.support-compat-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/77095056f043f67ed054aa0aaa741af8/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-compat-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/77095056f043f67ed054aa0aaa741af8/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-ui-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/3abdbd74a0a3e64306aaf5356165e890/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-ui-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/3abdbd74a0a3e64306aaf5356165e890/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-utils-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/47f7e3438c712a154d43e0ded249f28f/AndroidManifest.xml:21:5-23:61
+MERGED from [:com.android.support.support-core-utils-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/47f7e3438c712a154d43e0ded249f28f/AndroidManifest.xml:21:5-23:61
+MERGED from [:com.android.support.support-fragment-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/7957925772e08bb00ff7f7c966cbec83/AndroidManifest.xml:21:5-23:60
+MERGED from [:com.android.support.support-fragment-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/7957925772e08bb00ff7f7c966cbec83/AndroidManifest.xml:21:5-23:60
+MERGED from [:com.android.support.support-media-compat-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/cfa5633e5870cdf235bd39a510e8e491/AndroidManifest.xml:21:5-23:63
+MERGED from [:com.android.support.support-media-compat-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/cfa5633e5870cdf235bd39a510e8e491/AndroidManifest.xml:21:5-23:63
+MERGED from [:com.android.support.support-v4-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/bb18929b8f66ecc97af8b5cd078cd820/AndroidManifest.xml:21:5-23:54
+MERGED from [:com.android.support.support-v4-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/bb18929b8f66ecc97af8b5cd078cd820/AndroidManifest.xml:21:5-23:54
+MERGED from [:com.google.android.gms.play-services-auth-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/9978de949fa118f60f0e17fbad0fa07b/AndroidManifest.xml:17:5-43
+MERGED from [:com.google.android.gms.play-services-auth-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/9978de949fa118f60f0e17fbad0fa07b/AndroidManifest.xml:17:5-43
+MERGED from [:com.google.android.gms.play-services-auth-base-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/bb7c34969bc0815a7f23611fe23aef5c/AndroidManifest.xml:4:5-43
+MERGED from [:com.google.android.gms.play-services-auth-base-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/bb7c34969bc0815a7f23611fe23aef5c/AndroidManifest.xml:4:5-43
+MERGED from [:com.google.android.gms.play-services-base-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/70430735f14c2950e6d3ff4a470c0ac8/AndroidManifest.xml:17:5-43
+MERGED from [:com.google.android.gms.play-services-base-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/70430735f14c2950e6d3ff4a470c0ac8/AndroidManifest.xml:17:5-43
+MERGED from [:com.google.android.gms.play-services-basement-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/91433e3d869302d0da56f6874b34678b/AndroidManifest.xml:17:5-43
+MERGED from [:com.google.android.gms.play-services-basement-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/91433e3d869302d0da56f6874b34678b/AndroidManifest.xml:17:5-43
+MERGED from [:com.google.android.gms.play-services-tasks-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/d6e8a1919ce58f2f9abbec0c7dff76a6/AndroidManifest.xml:3:5-43
+MERGED from [:com.google.android.gms.play-services-tasks-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/d6e8a1919ce58f2f9abbec0c7dff76a6/AndroidManifest.xml:3:5-43
+MERGED from [:com.google.signin.google-signin-support-1.0.3:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/14a569ece026b7b24447115df3ad953a/AndroidManifest.xml:21:5-23:41
+MERGED from [:com.google.signin.google-signin-support-1.0.3:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/14a569ece026b7b24447115df3ad953a/AndroidManifest.xml:21:5-23:41
+INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:com.android.support.support-compat-25.2.0:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/77095056f043f67ed054aa0aaa741af8/AndroidManifest.xml:23:9-55
+	android:targetSdkVersion
+		INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:13:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-55
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:21:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:24:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:9-47:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:13-51
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:13-194
+	android:theme
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:34:13-54
+	android:name
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:29:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:38:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:41:13-43:40
+	android:value
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:43:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:44:13-46:40
+	android:value
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:45:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:49:9-51:33
+	android:value
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:51:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:52:9-54:36
+	android:value
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:9-57:50
+	android:value
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:57:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:56:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:9-60:68
+	android:value
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:13-65
+	android:name
+		ADDED from [:unityLibrary] /Users/cenk/UnityProjects/GoogleAuthDemoFinal/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:13-42
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [:com.google.android.gms.play-services-auth-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/9978de949fa118f60f0e17fbad0fa07b/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [:com.google.android.gms.play-services-auth-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/9978de949fa118f60f0e17fbad0fa07b/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-auth-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/9978de949fa118f60f0e17fbad0fa07b/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-auth-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/9978de949fa118f60f0e17fbad0fa07b/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [:com.google.android.gms.play-services-auth-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/9978de949fa118f60f0e17fbad0fa07b/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [:com.google.android.gms.play-services-auth-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/9978de949fa118f60f0e17fbad0fa07b/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-auth-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/9978de949fa118f60f0e17fbad0fa07b/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [:com.google.android.gms.play-services-auth-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/9978de949fa118f60f0e17fbad0fa07b/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [:com.google.android.gms.play-services-auth-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/9978de949fa118f60f0e17fbad0fa07b/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/70430735f14c2950e6d3ff4a470c0ac8/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/70430735f14c2950e6d3ff4a470c0ac8/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/70430735f14c2950e6d3ff4a470c0ac8/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/70430735f14c2950e6d3ff4a470c0ac8/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/91433e3d869302d0da56f6874b34678b/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/91433e3d869302d0da56f6874b34678b/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-10.2.6:] /Users/cenk/.gradle/caches/transforms-2/files-2.1/91433e3d869302d0da56f6874b34678b/AndroidManifest.xml:20:20-65
